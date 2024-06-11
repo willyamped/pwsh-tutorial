@@ -1,0 +1,25 @@
+{
+  "Employees": [
+    {
+      "EmployeeID": "1",
+      "FirstName": "Budi",
+      "LastName": "Babudi",
+      "DOB": "11/11/2000",
+      "Title": "Programmer"
+    },
+    {
+      "EmployeeID": "2",
+      "FirstName": "Budi",
+      "LastName": "Babudi",
+      "DOB": "11/11/2000",
+      "Title": "Programmer"
+    },
+    {
+      "EmployeeID": "3",
+      "FirstName": "Budi",
+      "LastName": "Babudi",
+      "DOB": "11/11/2000",
+      "Title": "Programmer"
+    }
+  ]
+}
